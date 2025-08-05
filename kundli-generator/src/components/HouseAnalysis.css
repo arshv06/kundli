@@ -1,0 +1,223 @@
+.house-analysis {
+  background: #1a1a2e;
+  border-radius: 12px;
+  margin: 20px 0;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.house-header {
+  padding: 16px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+.house-header h3 {
+  margin: 0;
+  color: #fff;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.house-strength-label {
+  background: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.house-content {
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 24px;
+}
+
+.section:last-child {
+  margin-bottom: 0;
+}
+
+.section h4 {
+  color: #ffb300;
+  margin: 0 0 12px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(255, 179, 0, 0.3);
+  padding-bottom: 6px;
+}
+
+.section p {
+  color: #e0e0e0;
+  line-height: 1.6;
+  margin: 0 0 12px 0;
+}
+
+.no-planets, .no-aspects {
+  color: #888;
+  font-style: italic;
+}
+
+.planets-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.planet-item {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  padding: 16px;
+  border-left: 4px solid;
+}
+
+.planet-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.planet-name {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.planet-details {
+  color: #ccc;
+  font-size: 0.9rem;
+}
+
+.planet-effect {
+  background: rgba(255, 255, 255, 0.03);
+  padding: 12px;
+  border-radius: 6px;
+  border-left: 3px solid rgba(255, 179, 0, 0.5);
+}
+
+.planet-effect p {
+  margin: 0;
+  color: #d0d0d0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.aspects-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.aspect-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 12px;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 6px;
+  border-left: 3px solid;
+}
+
+.aspect-planet {
+  font-weight: 600;
+  font-size: 1rem;
+  min-width: 30px;
+}
+
+.aspect-details {
+  color: #ccc;
+  font-size: 0.9rem;
+}
+
+.interactions {
+  background: rgba(255, 255, 255, 0.03);
+  padding: 16px;
+  border-radius: 8px;
+  border-left: 4px solid #4CAF50;
+}
+
+.interactions ul {
+  margin: 12px 0 0 0;
+  padding-left: 20px;
+}
+
+.interactions li {
+  color: #d0d0d0;
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.yogas-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.yoga-item {
+  background: rgba(255, 215, 0, 0.1);
+  border: 1px solid rgba(255, 215, 0, 0.3);
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.yoga-item h5 {
+  color: #ffd700;
+  margin: 0 0 8px 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.yoga-item p {
+  margin: 0 0 6px 0;
+  color: #e0e0e0;
+  font-size: 0.9rem;
+}
+
+.yoga-item p:last-child {
+  margin-bottom: 0;
+}
+
+.strength-analysis {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 16px;
+  border-radius: 8px;
+  border-left: 4px solid #ffb300;
+}
+
+.strength-analysis p {
+  margin: 0 0 8px 0;
+}
+
+.strength-analysis p:last-child {
+  margin-bottom: 0;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .house-header {
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+  }
+  
+  .planet-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .aspect-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+  
+  .house-content {
+    padding: 16px;
+  }
+} 

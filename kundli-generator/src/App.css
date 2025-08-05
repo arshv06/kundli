@@ -166,10 +166,7 @@ body, .app-root-dark {
   padding: 0.5rem 1.2rem;
   font-size: 1rem;
   font-weight: 600;
-  margin-bottom: 1.2rem;
   cursor: pointer;
-  align-self: flex-start;
-  margin-left: 2vw;
   transition: background 0.2s, color 0.2s;
 }
 .kundli-back-btn:hover {
@@ -485,10 +482,7 @@ body, .app-root-dark {
 }
 
 .kundli-legend-toggle-box {
-  position: absolute;
-  top: 1.5rem;
-  right: 2.5rem;
-  z-index: 30;
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -511,6 +505,9 @@ body, .app-root-dark {
   color: #23243a;
 }
 .kundli-legend-box-expanded {
+  position: absolute;
+  top: 100%;
+  right: 0;
   background: #23243a;
   color: #fff;
   border-radius: 10px;
@@ -521,6 +518,7 @@ body, .app-root-dark {
   font-size: 1rem;
   margin-top: 0.2rem;
   animation: fadeInLegend 0.2s;
+  z-index: 1000;
 }
 @keyframes fadeInLegend {
   from { opacity: 0; transform: translateY(-10px); }
@@ -530,5 +528,133 @@ body, .app-root-dark {
   .kundli-legend-toggle-box {
     top: 0.7rem;
     right: 0.7rem;
+  }
+}
+
+/* AI Analysis Box Styles */
+.kundli-ai-box {
+  background: #23243a;
+  border-radius: 12px;
+  border: 2px solid #444;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+.kundli-ai-box h3 {
+  color: #ffb300;
+  margin: 0 0 16px 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.kundli-ai-input {
+  margin-bottom: 16px;
+}
+
+.kundli-ai-response h4 {
+  color: #ff6b6b;
+  margin: 0 0 12px 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+@media (max-width: 1100px) {
+  .kundli-ai-box {
+    margin: 16px 0;
+    padding: 16px;
+  }
+}
+
+/* Detailed Analysis Section Styles */
+.kundli-detailed-analysis {
+  background: #23243a;
+  border-radius: 12px;
+  border: 2px solid #444;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+.analysis-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.analysis-header h3 {
+  color: #ffb300;
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.analysis-content {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.house-strength-legend {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 24px;
+  border-left: 4px solid #ffb300;
+}
+
+.house-strength-legend h4 {
+  color: #ffb300;
+  margin: 0 0 12px 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.legend-items {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #e0e0e0;
+  font-size: 0.9rem;
+}
+
+.legend-color {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.houses-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 20px;
+}
+
+@media (max-width: 768px) {
+  .houses-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .legend-items {
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .analysis-header {
+    flex-direction: column;
+    align-items: flex-start;
   }
 }

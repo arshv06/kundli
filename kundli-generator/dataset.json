@@ -1,0 +1,242 @@
+{
+    "houses": {
+      "1": {
+        "about": "The 1st House (Tanu Bhava) is the House of Self, governing self-image, appearance, personality, health and early life.",
+        "planets": {
+          "Sun": "Strong vitality and self-confidence; can also make one dominating and egoistic.",
+          "Moon": "Amiable personality but may suffer from lack of confidence and inconsistency.",
+          "Jupiter": "Compassionate and positive nature, big heart but may overlook details; promotes growth of personality.",
+          "Venus": "Pleasant manner and charm; promotes popularity but can cause laziness and sensual indulgence.",
+          "Mars": "Fiery and energetic; impulsive and hasty, but provides courage and endurance.",
+          "Mercury": "Curious, adaptable and witty; strong intellect and quick reactions.",
+          "Saturn": "Serious, introverted, dutiful; tall thin build, loyalty, and likely success after early struggles.",
+          "Rahu": "Zeal for life and desire for status; unconventional admired personality; risk of addiction if afflicted.",
+          "Ketu": "Insightful and mysterious; aware of flaws, magnetic personality; if afflicted can cause health and stamina issues."
+        }
+      },
+      "2": {
+        "about": "The 2nd House (Dhana Bhava) is the House of Wealth and family; it governs possessions, values, speech, and sustenance.",
+        "planets": {
+          "Sun": "Identity tied to wealth and family; brings self-respect and independence, but can make one greedy or clannish.",
+          "Moon": "Pleasant and attractive; good for gaining wealth and family support; afflicted Moon may cause inconsistent habits or addictions.",
+          "Jupiter": "Very auspicious; helps in business and wealth; brings happiness and respect; afflicted Jupiter causes financial or educational obstacles.",
+          "Venus": "Indicates wealth, comfort and family support; profits through business; afflicted Venus may lead to spendthrift habits.",
+          "Mars": "Confident, ambitious and independent; focuses on earning through hard work; malefic Mars can cause aggressiveness and rudeness.",
+          "Mercury": "Kind and intelligent; good organizer and communicator; may struggle with decisions if afflicted.",
+          "Saturn": "Builds income slowly through effort and discipline; good money manager; malefic influences can cause laziness and incomplete projects.",
+          "Rahu": "Auspicious for money; can bring unexpected gains and family responsibility; must control expenses to avoid adverse effects.",
+          "Ketu": "May lead to financial problems and spending; indicates dissatisfaction with inherited values and low self-worth."
+        }
+      },
+      "3": {
+        "about": "The 3rd House (Sahaj Bhava) governs communication, courage, siblings, early education, and interests.",
+        "planets": {
+          "Sun": "Focus on communication and travel; fond of staying in touch; skilled and confident, values knowledge and sharing wisdom.",
+          "Moon": "Imaginative, intuitive and receptive; brings emotional attachment to desires; good intermediary and attached to siblings.",
+          "Jupiter": "Enhanced mental capabilities; intuition and quick learning; benefits early education and relations with siblings and family.",
+          "Venus": "Expressive and harmonious; likes relationships to be conflict-free; should learn to speak up when needed.",
+          "Mars": "Courageous and energetic with passion for interests; alert and mentally active; may be reckless and face problems with siblings.",
+          "Mercury": "Skilled communicator; cooperative with peers; high intelligence; easily expresses ideas; may switch focus frequently.",
+          "Saturn": "Serious and introspective in communication; resists change; strong concentration; may slow adaptability and make older friends.",
+          "Rahu": "Favorable for writing, publication and revolutionary ideas; wealth through communication; potential for fame.",
+          "Ketu": "Mastery of skills but self-doubt; philosophical, courageous when favorable; affliction can harm bonds with siblings and associates."
+        }
+      },
+      "4": {
+        "about": "The 4th House (Bandhu Bhava) is the House of Home and Family; it represents roots, domestic comfort, mother, property, and emotional security.",
+        "planets": {
+          "Sun": "Emphasis on emotional peace and comfort; preoccupied with personal life and nurturing family; weak Sun may bring dissatisfaction.",
+          "Moon": "Emotionally stable and intuitive; strong need to nurture others; deep ties to family, heritage, and traditions; strong maternal influence.",
+          "Jupiter": "Blesses domestic faith and luck; abundance in home and inheritance; cordial bond with parents and family wealth.",
+          "Venus": "Harmony and love in domestic life; artistic and luxury-loving; financial gains from family or domestic affairs.",
+          "Mars": "Emotional restlessness and potential rifts due to aggression; may detach from native home; eventual emotional growth and removal of weaknesses.",
+          "Mercury": "Thoughts heavily influenced by home harmony; positive home life leads to positivity in outlook, discord leads to negativity.",
+          "Saturn": "Conservative, traditional and disciplined; dislike change; family problems and responsibilities; personal stillness and meditation are strengths.",
+          "Rahu": "Strong desire to own land and property; interest in education and boundaries; afflicted Rahu can disrupt family traditions.",
+          "Ketu": "Detachment and moving away; lack of domestic happiness and peace; potential loss of property; may cause problems in parents' health and finances."
+        }
+      },
+      "5": {
+        "about": "The 5th House (Putra Bhava) is the House of Creativity, Children, Romance and Luck; it governs pleasure, speculation, arts, and past-life merit.",
+        "planets": {
+          "Sun": "Illuminates creativity with passion; strong desire to express creativity; inflates ego and overconfidence; strong Sun indicates successful children.",
+          "Moon": "Influences creativity, children, romance and gains; perception of pleasure through art; afflicted Moon can cause worry about children and depression.",
+          "Jupiter": "Excellent for wisdom and teaching; natural guide; strong focus on passing on knowledge to others, especially children; good for wealth and investment.",
+          "Venus": "Great artistic talent; love of fine arts; close, creative relationships; need for love and attention; benefits through speculation with caution.",
+          "Mars": "Strong desire to create; highly skilled in sports; competitive; impulse and gambling risks; careful as problems with children or speculation can arise.",
+          "Mercury": "Mind is major creative tool; communication and writing talent; intelligent, innovative and optimistic; enjoys mental games and challenges.",
+          "Saturn": "Feels lack of appreciation; struggles to express emotion and creativity; serious relationships; should work on emotional openness.",
+          "Rahu": "Desire for recognition and limelight; beneficial for artistic or political careers; may face problems with children or father.",
+          "Ketu": "Philosophical and multilingual; speculation gains possible; lack of emotional satisfaction; afflicted Ketu can harm children and health."
+        }
+      },
+      "6": {
+        "about": "The 6th House (Ari Bhava) is the House of Health, Service, and Enemies; it deals with daily routine, work, disputes, debts and disease.",
+        "planets": {
+          "Sun": "Work and service focus; dedicated and promoted through continuous effort; strong sense of duty; positive Sun gives good immunity.",
+          "Moon": "Emotional fulfillment through helping others; helpful co-worker; can cause moodiness and stress-related health/digestive issues.",
+          "Jupiter": "Most benefic but loses strength here; may cause overindulgence and health issues; requires hard work for gains; high grace to learn from mistakes.",
+          "Venus": "Desire to be helpful at work; good conflict resolution; handles unpleasant situations with grace; generally satisfactory health if moderation is maintained.",
+          "Mars": "Helps overcome difficulties and enemies; active and competitive; risk of fever or accidents; physically hardworking but prone to conflicts.",
+          "Mercury": "Restless mind prone to stress; should maintain calm; caution in studies and work; overdriving can lead to nervous disorders.",
+          "Saturn": "Determined to face difficulties; learns lessons the hard way; emphasizes duty and health maintenance; tendency to worry and potential depression.",
+          "Rahu": "Positive placement; success through service; expertise in conflict management; may gain or lose through loans or legal issues; enemies lead to self-healing.",
+          "Ketu": "Tendency to avoid problems; usually unfavorable; risk of accidents and obstructions; can emerge victorious through effort."
+        }
+      },
+      "7": {
+        "about": "The 7th House (Patni Bhava) is the House of Partnerships and Marriage; it governs relationships, sexual partnership, business associations, and contracts.",
+        "planets": {
+          "Sun": "Gains from marriage or business; high status partner; quick rise in status through partnership.",
+          "Moon": "Loving and supportive partner; need for emotional security; influence of moodiness; great potential for compromise.",
+          "Jupiter": "Opportunities for wealth through marriage; optimistic and idealistic; brings name, fame and good business connections.",
+          "Venus": "Enjoyable marriage; improved financial/social status; romantic desires; balanced attitude needed to avoid high expectations.",
+          "Mars": "Passionate, devoted relationships; seeks active and courageous partner; independence can cause issues; good for career/business.",
+          "Mercury": "Good general communication; may avoid commitment; enjoys social ease; must keep dealings honest and simple.",
+          "Saturn": "Loyal, mature partners; marriage for security; long-term partnerships; initial lack of fulfillment but stability.",
+          "Rahu": "Desire to be equal in relationships; attracted to unusual partners; not strongly indicative of faithfulness.",
+          "Ketu": "Hardships in marriage and health of partner; dislikes being defined by partner; prefers freedom and solitude; not favorable for business partnerships."
+        }
+      },
+      "8": {
+        "about": "The 8th House (Ayu Bhava) is the House of Death, Transformation, Inheritance and Sexuality; it relates to hidden matters, shared resources, and rebirth.",
+        "planets": {
+          "Sun": "Explores mysteries of life; interest in occult and healing; possible difficulties with in-laws if afflicted.",
+          "Moon": "Private and secretive feelings; financial gains through inheritance or partner; possessions give security; afflicted Moon causes psychological fears.",
+          "Jupiter": "Philosophical nature; potential guide in occult; optimistic and cooperative; financial gains through partner or inheritance.",
+          "Venus": "Obsession with sensual pleasures; interest in occult, magic and healing; wealth from partner; risky choices can lead to painful outcomes.",
+          "Mars": "One of the most dangerous placements; intensity and recklessness; financial trouble due to partner; risk of accidents.",
+          "Mercury": "Penetrative and analytical thinking; involved with death-related fields (wills, crime); curious mind; financial gains or losses via inheritance/contracts.",
+          "Saturn": "Hard-working, disciplined, patient; delays in inheritance and debts; chronic health issues; challenges fears; success through acceptance of pain.",
+          "Rahu": "Malefic and impulsive; potential disastrous outcomes; cautious approach needed; well-placed Rahu leads to healthy, wealthy old age.",
+          "Ketu": "Good character and career longevity; potential losses in loans and friendships if afflicted; victory over opposition with effort."
+        }
+      },
+      "9": {
+        "about": "The 9th House (Dharma Bhava) is the House of Fortune, Faith, Philosophy and Higher Learning; it signifies good karma, wisdom and religion.",
+        "planets": {
+          "Sun": "Philosophical and religious mindset; could be a teacher or spiritual leader; strong family bonds and noble character.",
+          "Moon": "Gifted at reading omens; imaginative and morally intuitive; drawn to philosophy and spirituality.",
+          "Jupiter": "Great blessing; highest potential for ethics and wisdom; expands spiritual and intellectual life; influences others positively.",
+          "Venus": "Attraction to art, music, foreign cultures and travel; fair-minded and creative in spirituality; broad tastes.",
+          "Mars": "Strong will to fight for ideals; strong opinions; caution in legal matters; should decide rationally.",
+          "Mercury": "Excellent teacher or orator; sharp spiritual inclination; creative with language and communication; likely skilled in languages.",
+          "Saturn": "Focus on unraveling higher truths; Saturn tests through hardships; good for acquiring wealth through hard effort.",
+          "Rahu": "Desire to master religion/philosophy; unconventional beliefs; mystical abilities possible; some misuse of knowledge if not evolved.",
+          "Ketu": "Inherently spiritual and philosophical; may feel detached from father; not favorable for father's health; natural spirituality."
+        }
+      },
+      "10": {
+        "about": "The 10th House (Karma Bhava) is the House of Career, Reputation, and Authority; it governs profession, public image, achievements and life path.",
+        "planets": {
+          "Sun": "Central to career; quick rise up the ladder; extraordinary ability in responsibility and pressure.",
+          "Moon": "Emotional ups and downs affect career; charismatic; may change paths often; persuasive abilities.",
+          "Jupiter": "Prestigious professional position; expands luck in career; positively placed Jupiter brings fortune and success.",
+          "Venus": "Cheerful, pleasing personality; significant career success through charm; attracts people, caution against abuse of power.",
+          "Mars": "Ambitious, determined, energetic; powerhouse of enthusiasm; success through persistence.",
+          "Mercury": "Often in writing or speaking careers; brilliant ideas bring recognition; adaptable and versatile success.",
+          "Saturn": "Avoids wrong decisions; success through hard, patient work; long-term gains and achievements.",
+          "Rahu": "Strong desire for status and admiration; seeks leadership roles; works obsessively for fame; risk of shortcuts.",
+          "Ketu": "Positive Ketu can lead to wealth and status; highly skilled; malefic Ketu may cause aversion to responsibility."
+        }
+      },
+      "11": {
+        "about": "The 11th House (Labh Bhava) is the House of Gains, Friendship and Ambition; it governs aspirations, social networks, profits and the realization of desires.",
+        "planets": {
+          "Sun": "High ambition and enthusiasm; beneficial for realizing dreams with support; humanitarian orientation.",
+          "Moon": "Emotions directed toward others; cooperative and social; lasting bonds and involvement in group causes.",
+          "Jupiter": "Many supportive connections; high idealism and hope; focuses on social causes for humanity's betterment.",
+          "Venus": "Affable and popular; desires to improve the world; pleases others through social work; maintain own identity.",
+          "Mars": "Persistent in achieving goals; natural leader in groups; impulsive optimism may allow others to take advantage.",
+          "Mercury": "Values intellectual cooperation; original ideas; likes sharing through group involvement; prefers social success over power.",
+          "Saturn": "Practical and determined efforts; service to others; difficulty forming close bonds; long-lasting friendships once trust is established.",
+          "Rahu": "Great ambition and competitiveness; gains through networks; risk of unethical methods; desire to serve higher ideals.",
+          "Ketu": "Stability in life; limited desires; small social circle; selective friendships; mature perspective on culture and service."
+        }
+      },
+      "12": {
+        "about": "The 12th House (Vyaya Bhava) is the House of the Subconscious, Loss and Spirituality; it covers isolation, expenses, secrets, liberation and the unseen realms.",
+        "planets": {
+          "Sun": "Helps overcome troubles and challenges; heightened intuition and interest in occult; afflicted Sun causes significant troubles.",
+          "Moon": "Desire to help the less fortunate; deep emotions and daydreaming; difficulty maintaining close family ties.",
+          "Jupiter": "Benevolent and optimistic; interest in occult and psychic matters; acts like a guardian; generous and compassionate.",
+          "Venus": "Secret search for life's meaning; hidden affairs; empathy and desire to serve; hidden desires for sensual pleasures.",
+          "Mars": "Unfortunate events from secret enemies; financial losses; intense emotions cause confusion; need for willpower and introspection.",
+          "Mercury": "Visionary and inclined to mystery; mind digs deep into life's mysteries; afflicted Mercury causes confusion and communication issues.",
+          "Saturn": "Drawn to solitude and isolation; mature philosophical mind; focused on life's mysteries; learns to flow despite losses.",
+          "Rahu": "Prone to escapism (drugs, alcohol); wasteful expenses; vivid imagination; aspiration for spiritual elevation and travel.",
+          "Ketu": "Highly spiritual placement; strong path to enlightenment; introverted; victory over opposition; afflicted Ketu can bring health problems."
+        }
+      }
+    },
+    "aspects": {
+      "Jupiter": {"aspects": [5,7,9], "note": "Jupiter casts aspects on the 5th, 7th and 9th houses."},
+      "Saturn": {"aspects": [3,7,10], "note": "Saturn casts aspects on the 3rd, 7th and 10th houses."},
+      "Mars": {"aspects": [4,7,8], "note": "Mars casts aspects on the 4th, 7th and 8th houses."},
+      "Sun": {"aspects": [7], "note": "Sun (like Mercury, Venus, Moon) aspects only the 7th house."},
+      "Moon": {"aspects": [7], "note": "Moon (like Sun, Mercury, Venus) aspects only the 7th house."},
+      "Venus": {"aspects": [7], "note": "Venus (like Mercury, Moon, Sun) aspects only the 7th house."},
+      "Mercury": {"aspects": [7], "note": "Mercury (like Venus, Moon, Sun) aspects only the 7th house."},
+      "Rahu": {"aspects": [], "note": "Rahu and Ketu (lunar nodes) traditionally cast no aspects."},
+      "Ketu": {"aspects": [], "note": "Rahu and Ketu cast no planetary aspects."}
+    },
+    "yogas": {
+      "RajYog": {
+        "condition": "Lords of a Kendra (1st,4th,7th,10th) and a Trikona (1st,5th,9th) house in conjunction, aspect or exchange.",
+        "effect": "Generates success, authority and wealth."
+      },
+      "GajKesariYog": {
+        "condition": "Jupiter in an angular house (1st,4th,7th,10th) relative to the Moon.",
+        "effect": "Bestows wisdom, prosperity and respect."
+      },
+      "DhanYog": {
+        "condition": "Lords of the 2nd, 5th, 9th and 11th houses in conjunction, mutual aspect or exchange.",
+        "effect": "Blessed with significant wealth and financial gains."
+      },
+      "KalSarpYog": {
+        "condition": "All planets are located between Rahu and Ketu in the natal chart.",
+        "effect": "Generally causes hardships and obstacles."
+      },
+      "PanchaMahapurushaYog": {
+        "condition": "Mercury, Venus, Mars, Jupiter or Saturn in its own sign or exalted sign in a Kendra (1,4,7,10).",
+        "effect": "Confers exceptional qualities of that planet (intelligence, strength, spirituality, etc.)."
+      },
+      "ViparitRajYog": {
+        "condition": "Lords of the 6th, 8th or 12th houses in mutual exchange, conjunction or aspect.",
+        "effect": "Turns obstacles into success after initial struggles."
+      },
+      "NeechBhangRajYog": {
+        "condition": "A debilitated planet's debilitation is canceled by various factors.",
+        "effect": "Cancels negative effects and elevates the individual to high status."
+      },
+      "ChandraMangalYog": {
+        "condition": "Conjunction of Moon and Mars in the same house.",
+        "effect": "Indicates wealth and success through effort; material benefits through energy."
+      },
+      "AmalaYog": {
+        "condition": "A benefic planet occupies the 10th house from the Moon or Ascendant.",
+        "effect": "Ensures the native's reputation remains untarnished."
+      },
+      "AdhiYog": {
+        "condition": "Benefics Jupiter, Venus, Mercury placed in the 6th, 7th, and 8th from the Moon or Ascendant.",
+        "effect": "Promises high status, wealth and health."
+      },
+      "SaraswatiYog": {
+        "condition": "Mercury, Jupiter, Venus in Kendras or Trikonas from Ascendant, with at least one in own sign or exalted.",
+        "effect": "Bestows wisdom, artistic talent and eloquence."
+      },
+      "VasumathiYog": {
+        "condition": "Benefic planets in Upachaya houses (3rd, 6th, 10th, 11th) from the Moon.",
+        "effect": "Grants wealth and prosperity."
+      },
+      "DaridraYog": {
+        "condition": "Lords of the 11th and 2nd houses in Dusthana houses (6th, 8th, 12th) or debilitated.",
+        "effect": "Indicates potential financial struggles or poverty."
+      },
+      "ShakatYog": {
+        "condition": "Jupiter in the 6th, 8th, or 12th from the Moon.",
+        "effect": "Leads to fluctuations in fortune (periods of ease followed by challenges)."
+      }
+    }
+  }
+  
